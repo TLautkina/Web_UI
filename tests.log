@@ -1,0 +1,48 @@
+07.02.2023 11:01:42.650 [main] INFO   i.g.b.w.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+07.02.2023 11:01:42.686 [main] INFO   i.g.b.w.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\mrako\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+07.02.2023 11:10:00.196 [main] INFO   i.g.b.w.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+07.02.2023 11:10:00.220 [main] INFO   i.g.b.w.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\mrako\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+07.02.2023 11:10:53.052 [main] INFO   i.g.b.w.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+07.02.2023 11:10:53.076 [main] INFO   i.g.b.w.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\mrako\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+07.02.2023 11:15:30.089 [main] INFO   i.g.b.w.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+07.02.2023 11:15:30.111 [main] INFO   i.g.b.w.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\mrako\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+07.02.2023 11:18:08.733 [main] INFO   i.g.b.w.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+07.02.2023 11:18:08.755 [main] INFO   i.g.b.w.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\mrako\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+07.02.2023 11:21:51.233 [main] INFO   i.g.b.w.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+07.02.2023 11:21:51.258 [main] INFO   i.g.b.w.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\mrako\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+07.02.2023 12:12:49.294 [main] INFO   i.g.b.w.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+07.02.2023 12:12:49.314 [main] INFO   i.g.b.w.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\mrako\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+07.02.2023 13:27:51.368 [main] INFO   i.g.b.w.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+07.02.2023 13:27:51.387 [main] INFO   i.g.b.w.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\mrako\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+07.02.2023 13:33:05.113 [main] INFO   i.g.b.w.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+07.02.2023 13:33:05.135 [main] INFO   i.g.b.w.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\mrako\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+07.02.2023 13:37:10.145 [main] INFO   i.g.b.w.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+07.02.2023 13:37:10.173 [main] INFO   i.g.b.w.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\mrako\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+07.02.2023 13:48:15.460 [main] INFO   i.g.b.w.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+07.02.2023 13:48:15.481 [main] INFO   i.g.b.w.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\mrako\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+07.02.2023 13:49:24.242 [main] INFO   i.g.b.w.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+07.02.2023 13:49:24.276 [main] INFO   i.g.b.w.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\mrako\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+07.02.2023 13:50:29.699 [main] INFO   i.g.b.w.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+07.02.2023 13:50:29.721 [main] INFO   i.g.b.w.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\mrako\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+07.02.2023 13:51:23.011 [main] INFO   Test-Case's 1-6 - Тест-кейс №4 пройден
+07.02.2023 13:53:47.630 [main] INFO   i.g.b.w.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+07.02.2023 13:53:47.652 [main] INFO   i.g.b.w.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\mrako\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+07.02.2023 13:54:32.863 [main] INFO   Test-Case's 1-6 - Тест-кейс №4 пройден
+07.02.2023 13:54:51.056 [main] INFO   i.g.b.w.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+07.02.2023 13:54:51.076 [main] INFO   i.g.b.w.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\mrako\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+07.02.2023 13:56:00.664 [main] INFO   Test-Case's 1-6 - Тест-кейс №1 пройден
+07.02.2023 13:59:05.205 [main] INFO   i.g.b.w.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+07.02.2023 13:59:05.228 [main] INFO   i.g.b.w.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\mrako\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+07.02.2023 14:00:10.670 [main] INFO   Test-Case's 1-6 - Тест-кейс №5 пройден
+07.02.2023 14:00:25.815 [main] INFO   i.g.b.w.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+07.02.2023 14:00:25.837 [main] INFO   i.g.b.w.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\mrako\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+07.02.2023 14:02:42.673 [main] INFO   Test-Case's 1-6 - Тест-кейс №3 пройден
+07.02.2023 14:02:53.027 [main] INFO   i.g.b.w.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+07.02.2023 14:02:53.049 [main] INFO   i.g.b.w.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\mrako\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+07.02.2023 14:03:40.114 [main] INFO   Test-Case's 1-6 - Тест-кейс №2 пройден
+07.02.2023 14:03:56.197 [main] INFO   i.g.b.w.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+07.02.2023 14:03:56.218 [main] INFO   i.g.b.w.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\mrako\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+07.02.2023 14:04:59.193 [main] INFO   Test-Case's 1-6 - Тест-кейс №2 пройден
+07.02.2023 14:05:12.099 [main] INFO   i.g.b.w.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+07.02.2023 14:05:12.120 [main] INFO   i.g.b.w.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\mrako\.cache\selenium\chromedriver\win32\109.0.5414.74\chromedriver.exe
+07.02.2023 14:06:31.413 [main] INFO   Test-Case's 1-6 - Тест-кейс №6 пройден
